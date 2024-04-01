@@ -27,16 +27,21 @@ Feature 1, x1 – Company: (Total: 19)
 ```['Acer' 'Apple' 'Asus' 'Chuwi' 'Dell' 'Fujitsu' 'Google' 'HP' 'Huawei' 'LG' 'Lenovo' 'MSI' 'Mediacom' 'Microsoft' 'Razer' 'Samsung' 'Toshiba' 'Vero' 'Xiaomi']```
 
 Feature 2, x2 – Company: *(Total: 6)*
+
 ```['2 in 1 Convertible' 'Gaming' 'Netbook' 'Notebook' 'Ultrabook' 'Workstation']```
 
 Feature 3, x3 – : *(Total: 17)*
+
 ```['10.1' '11.6' '12.0' '12.3' '12.5' '13.0' '13.3' '13.5' '13.9' '14.0' '14.1' '15.0' '15.4' '15.6' '17.0' '17.3' '18.4']```
 
 Feature 4, x4: *(Total: 37)*
+
 ```['1366x768' '1440x900' '1600x900' '1920x1080' '2560x1440' '4K Ultra HD / Touchscreen 3840x2160' '4K Ultra HD 3840x2160' 'Full HD / Touchscreen 1920x1080' 'Full HD 1920x1080' 'IPS Panel 1366x768' 'IPS Panel 2560x1440' 'IPS Panel 4K Ultra HD / Touchscreen 3840x2160' 'IPS Panel 4K Ultra HD 3840x2160' 'IPS Panel Full HD / Touchscreen 1920x1080' 'IPS Panel Full HD 1366x768' 'IPS Panel Full HD 1920x1080' 'IPS Panel Full HD 1920x1200' 'IPS Panel Full HD 2160x1440' 'IPS Panel Full HD 2560x1440' 'IPS Panel Quad HD+ / Touchscreen 3200x1800' 'IPS Panel Quad HD+ 2560x1440' 'IPS Panel Quad HD+ 3200x1800' 'IPS Panel Retina Display 2304x1440' 'IPS Panel Retina Display 2560x1600' 'IPS Panel Retina Display 2736x1824' 'IPS Panel Retina Display 2880x1800' 'IPS Panel Touchscreen / 4K Ultra HD 3840x2160' 'IPS Panel Touchscreen 1366x768' 'IPS Panel Touchscreen 1920x1200' 'IPS Panel Touchscreen 2560x1440' 'Quad HD+ / Touchscreen 3200x1800' 'Touchscreen / Full HD 1920x1080' 'Touchscreen / Quad HD+ 3200x1800' 'Touchscreen 1366x768' 'Touchscreen 2256x1504' 'Touchscreen 2400x1600' 'Touchscreen 2560x1440']```
 
 Feature 5, x5: *(Total: 100)*
- ['AMD A10-Series 9600P 2.4GHz' 'AMD A10-Series 9620P 2.5GHz'
+
+```
+['AMD A10-Series 9600P 2.4GHz' 'AMD A10-Series 9620P 2.5GHz'
  'AMD A10-Series A10-9620P 2.5GHz' 'AMD A12-Series 9700P 2.5GHz'
  'AMD A12-Series 9720P 2.7GHz' 'AMD A12-Series 9720P 3.6GHz'
  'AMD A4-Series 7210 2.2GHz' 'AMD A6-Series 7310 2GHz'
@@ -89,11 +94,15 @@ Feature 5, x5: *(Total: 100)*
  'Intel Pentium Quad Core N3710 1.6GHz'
  'Intel Pentium Quad Core N4200 1.1GHz' 'Intel Xeon E3-1505M V6 3GHz'
  'Intel Xeon E3-1535M v5 2.9GHz' 'Intel Xeon E3-1535M v6 3.1GHz']
+```
 
 Feature 6, x6: *(Total: 8)*
- ['12GB' '16GB' '24GB' '2GB' '32GB' '4GB' '6GB' '8GB']
+
+```['12GB' '16GB' '24GB' '2GB' '32GB' '4GB' '6GB' '8GB']```
 
 Feature 7, x7: *(Total: 33)*
+
+```
  ['1.0TB Hybrid' '128GB Flash Storage' '128GB HDD' '128GB SSD'
  '128GB SSD +  1TB HDD' '128GB SSD +  2TB HDD' '16GB Flash Storage'
  '16GB SSD' '180GB SSD' '1TB HDD' '1TB HDD +  1TB HDD' '1TB SSD'
@@ -104,8 +113,11 @@ Feature 7, x7: *(Total: 33)*
  '512GB SSD +  1TB HDD' '512GB SSD +  256GB SSD' '512GB SSD +  2TB HDD'
  '512GB SSD +  512GB SSD' '64GB Flash Storage'
  '64GB Flash Storage +  1TB HDD' '64GB SSD']
+```
 
 Feature 8, x8: *(Total: 96)*
+
+```
  ['AMD FirePro W4190M ' 'AMD FirePro W5130M' 'AMD R17M-M1-70'
  'AMD R4 Graphics' 'AMD Radeon 520' 'AMD Radeon 530' 'AMD Radeon 540'
  'AMD Radeon Pro 455' 'AMD Radeon Pro 555' 'AMD Radeon Pro 560'
@@ -142,7 +154,7 @@ Feature 8, x8: *(Total: 96)*
  'Nvidia Quadro M1000M' 'Nvidia Quadro M1200' 'Nvidia Quadro M2000M'
  'Nvidia Quadro M2200' 'Nvidia Quadro M2200M' 'Nvidia Quadro M520M'
  'Nvidia Quadro M620' 'Nvidia Quadro M620M']
+```
 
 Feature 9, x9: *(Total: 9)*
- ['Android' 'Chrome OS' 'Linux' 'Mac OS X' 'No OS' 'Windows 10'
- 'Windows 10 S' 'Windows 7' 'macOS']
+```['Android' 'Chrome OS' 'Linux' 'Mac OS X' 'No OS' 'Windows 10' 'Windows 10 S' 'Windows 7' 'macOS']```
