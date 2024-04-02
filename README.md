@@ -115,6 +115,18 @@ Feature 7, x7: *(Total: 33)*
  '64GB Flash Storage +  1TB HDD' '64GB SSD']
 ```
 
+All unique singular types of storage:
+```
+'32GB SSD' '128GB HDD' '1.0TB Hybrid' '64GB SSD' '256GB SSD' '180GB SSD' '32GB HDD' '2TB HDD'
+'512GB Flash Storage' '16GB Flash Storage' '64GB Flash Storage' '1TB SSD' '16GB SSD' '500GB HDD'
+'32GB Flash Storage' '128GB SSD' 'None' '512GB SSD' '256GB Flash Storage' '1TB HDD' '128GB Flash Storage'
+```
+
+Order of pricing based on type of storage: `None < Flash Storage < HDD < Hybrid < SSD`
+
+*However, this dataset is outdated, so the pricing order is not true to the current market. Today, Hybrid storage is no longer in supply so they would be
+more expensive to purchase*
+
 Feature 8, x8: *(Total: 96)*
 
 ```
