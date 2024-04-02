@@ -150,53 +150,46 @@ Rank of these storage types in (ascending) order of how much they affect the pri
 &nbsp;&nbsp;&nbsp;&nbsp;Common in entry-level laptops.
 &nbsp;&nbsp;&nbsp;&nbsp;Affects price, but not significantly.
 
-6. 180GB SSD:
+6. 128GB SSD:
+&nbsp;&nbsp;&nbsp;&nbsp;Entry-level SSD capacity.
+&nbsp;&nbsp;&nbsp;&nbsp;Affects price, especially in budget laptops.
+
+7. 180GB SSD:
 &nbsp;&nbsp;&nbsp;&nbsp;Small SSD capacity.
 &nbsp;&nbsp;&nbsp;&nbsp;Moderately impacts price.
 
-7. 256GB Flash Storage:
+8. 256GB Flash Storage:
 &nbsp;&nbsp;&nbsp;&nbsp;Decent storage for everyday use.
 &nbsp;&nbsp;&nbsp;&nbsp;Affects price, especially in mid-range laptops.
 
-8. 500GB HDD:
+9. 500GB HDD:
 &nbsp;&nbsp;&nbsp;&nbsp;HDD with good capacity.
 &nbsp;&nbsp;&nbsp;&nbsp;Budget-friendly but slower performance.
 
-9. 512GB Flash Storage:
+10. 512GB Flash Storage:
 &nbsp;&nbsp;&nbsp;&nbsp;Larger SSD capacity.
 &nbsp;&nbsp;&nbsp;&nbsp;Noticeable impact on price.
 
-10. 1TB HDD:
+11. 256GB SSD:
+&nbsp;&nbsp;&nbsp;&nbsp;Balanced SSD capacity.
+&nbsp;&nbsp;&nbsp;&nbsp;Common and moderately affects price.
+
+12. 1TB HDD:
 &nbsp;&nbsp;&nbsp;&nbsp;HDD with ample storage.
 &nbsp;&nbsp;&nbsp;&nbsp;Common in mid-range laptops.
-
-11. 1TB SSD:
-&nbsp;&nbsp;&nbsp;&nbsp;Large SSD capacity.
-&nbsp;&nbsp;&nbsp;&nbsp;Significantly affects the price due to SSD cost per gigabyte1.
-
-12. 2TB HDD:
-&nbsp;&nbsp;&nbsp;&nbsp;High-capacity HDD.
-&nbsp;&nbsp;&nbsp;&nbsp;Adds to the price but still reasonable.
 
 13. 1.0TB Hybrid (SSHD):
 &nbsp;&nbsp;&nbsp;&nbsp;Combines HDD and SSD.
 &nbsp;&nbsp;&nbsp;&nbsp;Moderately impacts price.
 
-14. 128GB SSD:
-&nbsp;&nbsp;&nbsp;&nbsp;Entry-level SSD capacity.
-&nbsp;&nbsp;&nbsp;&nbsp;Affects price, especially in budget laptops.
+14.  1TB SSD:
+&nbsp;&nbsp;&nbsp;&nbsp;Large SSD capacity.
+&nbsp;&nbsp;&nbsp;&nbsp;Significantly affects the price due to SSD cost per gigabyte1.
 
-15. 256GB SSD:
-&nbsp;&nbsp;&nbsp;&nbsp;Balanced SSD capacity.
-&nbsp;&nbsp;&nbsp;&nbsp;Common and moderately affects price.
+15. 2TB HDD:
+&nbsp;&nbsp;&nbsp;&nbsp;High-capacity HDD.
+&nbsp;&nbsp;&nbsp;&nbsp;Adds to the price but still reasonable.
 
-16. 1TB HDD:
-&nbsp;&nbsp;&nbsp;&nbsp;Large HDD capacity.
-&nbsp;&nbsp;&nbsp;&nbsp;Adds to the price but not as much as SSDs.
-
-17. 2TB HDD:
-&nbsp;&nbsp;&nbsp;&nbsp;Very high-capacity HDD.
-&nbsp;&nbsp;&nbsp;&nbsp;Price impact due to sheer storage size.
 
 Feature 8, x8: *(Total: 96)*
 
