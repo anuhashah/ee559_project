@@ -129,55 +129,71 @@ more expensive to purchase*
 
 Rank of these storage types in order of how much they affect the price of a laptop, considering both performance and cost:
 
-&nbsp;&nbsp; None:
+None:
 &nbsp;&nbsp;&nbsp;&nbsp;This refers to no internal storage (e.g., laptops without built-in storage).
 &nbsp;&nbsp;&nbsp;&nbsp;It doesn’t directly impact the price since you’ll need to add external storage separately.
+
 16GB Flash Storage:
 &nbsp;&nbsp;&nbsp;&nbsp;Very minimal storage capacity.
 &nbsp;&nbsp;&nbsp;&nbsp;Typically found in budget devices.
 &nbsp;&nbsp;&nbsp;&nbsp;Low impact on price due to its small size.
+
 32GB Flash Storage:
 &nbsp;&nbsp;&nbsp;&nbsp;Still limited storage.
 &nbsp;&nbsp;&nbsp;&nbsp;Budget-friendly but not a significant price factor.
+
 64GB Flash Storage:
 &nbsp;&nbsp;&nbsp;&nbsp;Slightly more storage than 32GB.
 &nbsp;&nbsp;&nbsp;&nbsp;Still budget-friendly.
+
 128GB Flash Storage:
 &nbsp;&nbsp;&nbsp;&nbsp;Common in entry-level laptops.
 &nbsp;&nbsp;&nbsp;&nbsp;Affects price, but not significantly.
+
 180GB SSD:
 &nbsp;&nbsp;&nbsp;&nbsp;Small SSD capacity.
 &nbsp;&nbsp;&nbsp;&nbsp;Moderately impacts price.
+
 256GB Flash Storage:
 &nbsp;&nbsp;&nbsp;&nbsp;Decent storage for everyday use.
 &nbsp;&nbsp;&nbsp;&nbsp;Affects price, especially in mid-range laptops.
+
 500GB HDD:
 &nbsp;&nbsp;&nbsp;&nbsp;HDD with good capacity.
 &nbsp;&nbsp;&nbsp;&nbsp;Budget-friendly but slower performance.
+
 512GB Flash Storage:
 &nbsp;&nbsp;&nbsp;&nbsp;Larger SSD capacity.
 &nbsp;&nbsp;&nbsp;&nbsp;Noticeable impact on price.
+
 1TB HDD:
 &nbsp;&nbsp;&nbsp;&nbsp;HDD with ample storage.
 &nbsp;&nbsp;&nbsp;&nbsp;Common in mid-range laptops.
+
 1TB SSD:
 &nbsp;&nbsp;&nbsp;&nbsp;Large SSD capacity.
 &nbsp;&nbsp;&nbsp;&nbsp;Significantly affects the price due to SSD cost per gigabyte1.
+
 2TB HDD:
 &nbsp;&nbsp;&nbsp;&nbsp;High-capacity HDD.
 &nbsp;&nbsp;&nbsp;&nbsp;Adds to the price but still reasonable.
-&nbsp;&nbsp;&nbsp;&nbsp;1.0TB Hybrid (SSHD):
+
+1.0TB Hybrid (SSHD):
 &nbsp;&nbsp;&nbsp;&nbsp;Combines HDD and SSD.
 &nbsp;&nbsp;&nbsp;&nbsp;Moderately impacts price.
+
 128GB SSD:
 &nbsp;&nbsp;&nbsp;&nbsp;Entry-level SSD capacity.
 &nbsp;&nbsp;&nbsp;&nbsp;Affects price, especially in budget laptops.
+
 256GB SSD:
 &nbsp;&nbsp;&nbsp;&nbsp;Balanced SSD capacity.
 &nbsp;&nbsp;&nbsp;&nbsp;Common and moderately affects price.
+
 1TB HDD:
 &nbsp;&nbsp;&nbsp;&nbsp;Large HDD capacity.
 &nbsp;&nbsp;&nbsp;&nbsp;Adds to the price but not as much as SSDs.
+
 2TB HDD:
 &nbsp;&nbsp;&nbsp;&nbsp;Very high-capacity HDD.
 &nbsp;&nbsp;&nbsp;&nbsp;Price impact due to sheer storage size.
