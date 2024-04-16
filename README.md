@@ -7,26 +7,7 @@ Kaggle Dataset: https://www.kaggle.com/datasets/ara001/laptop-prices-based-on-it
 ### Step 1: Importing Training Dataset and Splitting Features
 We imported the data from `laptop_data_train.csv` and split some features into multiple features. 
 
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ Features Before (Total = 11)        ┃ Features After (Total = 16)         ┃
-┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
-│ Company: Unique Count = 19          │ Company: Unique Count = 19          │
-│ TypeName: Unique Count = 6          │ TypeName: Unique Count = 6          │
-│ Inches: Unique Count = 17           │ Inches: Unique Count = 17           │
-│ ScreenResolution: Unique Count = 37 │ Display: Unique Count = 10          │
-│ Cpu: Unique Count = 100             │ Touchscreen: Unique Count = 2       │
-│ Ram: Unique Count = 8               │ Width: Unique Count = 13            │
-│ Memory: Unique Count = 33           │ Height: Unique Count = 10           │
-│ Gpu: Unique Count = 96              │ MemoryComponent1: Unique Count = 20 │
-│ OpSys: Unique Count = 9             │ MemoryComponent2: Unique Count = 6  │
-│ Weight: Unique Count = 161          │ CpuModel: Unique Count = 81         │
-│ Price: Unique Count = 600           │ ClockSpeed: Unique Count = 25       │
-│                                     │ Ram: Unique Count = 8               │
-│                                     │ Gpu: Unique Count = 96              │
-│                                     │ OpSys: Unique Count = 9             │
-│                                     │ Weight: Unique Count = 161          │
-│                                     │ Price: Unique Count = 600           │
-└─────────────────────────────────────┴─────────────────────────────────────┘
+<img width="561" alt="Screenshot 2024-04-15 at 8 07 08 PM" src="https://github.com/anuhashah/ee559_project/assets/56565563/c9893ea1-ccd7-4654-8cf8-5948f8c1931b">
 
 - We split the ScreenResolution category into 4 features: Display (i.e IPS Panel, Full HD, etc.), Touchscreen (i.e. Yes or No), Width, and Height (width and height referring to pixel count).
 
